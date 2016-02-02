@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.3915145
+  lightness: 0.6310419
+  brandStrength: 1
+  brandColors:
+    - '#B4A392'
+    - '#DFD0BD'
+    - '#030102'
+    - '#5C310E'
+    - '#E06531'
+  rhythmicContrast: 0.7663802
+typography_spectrum: 0.1047261
+name: Primate-media
