@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.3915145
+  brandStrength: 0.9973147
   lightness: 0.6310419
-  brandStrength: 1
   brandColors:
-    - '#B4A392'
-    - '#DFD0BD'
-    - '#030102'
-    - '#5C310E'
-    - '#E06531'
+    - '#010301'
+    - '#015BC3'
+    - '#4989E7'
+    - '#FFFFF0'
+    - '#5F5F20'
   rhythmicContrast: 0.7663802
-typography_spectrum: 0.1047261
+typography_spectrum: 0.113319
+layout_spectrum: 0.5816327
 name: Primate-media
